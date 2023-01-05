@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlker</h1>
 <h3 align="center">I'm Web Design - Coding and Software Developer. I live in Istanbul & Ankara. I'm learning C# & .NET Mvc5 & .NET Core & Sql & Html & Css & Javascript</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ilkerbugrahanyuce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilkerbugrahanyuce/" height="30" width="40" /></a>
-</p>
+
 
 
 <h4 align="center"><br>
@@ -24,3 +21,9 @@
 <a href="http://www.github.com/ilkeryuce1"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkeryuce1&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/ilkeryuce1"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkeryuce1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
+
+
+<h3 align="Center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ilkerbugrahanyuce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilkerbugrahanyuce/" height="30" width="40" /></a>
+</p>
