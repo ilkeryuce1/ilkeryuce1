@@ -24,7 +24,7 @@
 <a href="http://www.github.com/ilkeryuce1"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkeryuce1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
-
+<br/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ilkeryuce1/count.svg" />
