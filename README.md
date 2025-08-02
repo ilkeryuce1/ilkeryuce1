@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlker  <p align="center">
 <a href="https://www.linkedin.com/in/ilkerbugrahanyuce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilkerbugrahanyuce/" height="30" width="40" /></a>
 </p></h1>
-<h3 align="center">I'm Web Design - Coding and Software Developer. I live in Istanbul & Ankara. I'm learning C# & .NET Mvc5 & .NET Core & Sql & Html & Css & Javascript</h3>
+<h3 align="center">I'm Web Designer - Coding and Software Developer. I live in Istanbul & Ankara Turkey </h3>
 
 
 
