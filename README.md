@@ -1,32 +1,70 @@
-<h1 align="center">Hi 👋, I'm İlker  <p align="center">
-<a href="https://www.linkedin.com/in/ilkerbugrahanyuce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilkerbugrahanyuce/" height="30" width="40" /></a>
-</p></h1>
-<h3 align="center">I'm software developer . I live in Istanbul & Ankara Turkey </h3>
+# 👋 Hi, I'm İlker Buğrahan YÜCE
 
-
-
-
-<h4 align="center"><br>
-  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
- </h4>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4>
-                                       <!--                        
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
--->
- 
- <div align="center">
-<a href="http://www.github.com/ilkeryuce1"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ilkeryuce1&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="ilkeryuce1 GitHub stats"/></a>
-<a href="http://www.github.com/ilkeryuce1"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkeryuce1&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/ilkeryuce1"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkeryuce1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
-</div>
-
-<br/>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ilkeryuce1/count.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Software%20Developer&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
+### 👨‍💻 About Me
+I am a software developer. Currently, I am specializing in the **.NET ecosystem**, focusing on building scalable and maintainable systems using **Clean Architecture** principles. I am passionate about database optimization and robust backend logic.
+
+- 🌍 **Location:** Ankara & Istanbul, Turkey
+- 🎓 **Education:**  Associate Degree in Computer Programming | Management Information Systems (MIS)
+- 🚀 **Core Focus:** Backend Development, API Design, System Architecture
+- 🛠️ **Motto:** "Clean code is not a goal; it's a standard."
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><strong>Backend & Core</strong></td>
+    <td align="center" width="250"><strong>Frontend & UI</strong></td>
+    <td align="center" width="250"><strong>Database & Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <a href="https://github.com/ilkeryuce1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkeryuce1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="İlker's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ilkeryuce1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkeryuce1&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilkeryuce1&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ilkerbugrahanyuce/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ilkerbyuce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"> 
+  <font size="2">You are visitor number <b></b>!</font><br>
+  <img src="https://profile-counter.glitch.me/ilkeryuce1/count.svg" />
+</p>
