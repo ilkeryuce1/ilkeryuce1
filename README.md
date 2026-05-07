@@ -64,7 +64,3 @@ I am a software developer. Currently, I am specializing in the **.NET ecosystem*
 <a href="mailto:ilkerbyuce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"> 
-  <font size="2">You are visitor number <b></b>!</font><br>
-  <img src="https://profile-counter.glitch.me/ilkeryuce1/count.svg" />
-</p>
