@@ -61,6 +61,6 @@ I am a software developer. Currently, I am specializing in the **.NET ecosystem*
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ilkerbugrahanyuce/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ilkerbyuce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ilkerb.yuce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
